@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ResumeCv from "./projetcs/file.pdf";
-import VideoCv from "../personalData/MP4_20250420_234421VLOG.mp4";
+// import VideoCv from "../personalData/MP4_20250420_234421VLOG.mp4";
 import "./Resume.css";
 const Resume = () => {
   const [showVideo, setShowVideo] = useState(false);
@@ -89,7 +89,7 @@ const Resume = () => {
               controls
               autoPlay
             >
-              <source src={VideoCv} type="video/mp4" />
+              {/* <source src={VideoCv} type="video/mp4" /> */}
               Your browser does not support the video tag.
             </video>
             <button
