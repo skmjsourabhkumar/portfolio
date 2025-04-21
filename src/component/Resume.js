@@ -89,15 +89,10 @@ const Resume = () => {
               controls
               autoPlay
             >
-              {/* <source src={VideoCv} type="video/mp4" /> */}
+             
               Your browser does not support the video tag.
             </video>
-            <button
-              className="absolute top-2 right-2 bg-white text-black px-4 py-1 rounded-full hover:bg-red-500 hover:text-white transition-all"
-              onClick={() => setShowVideo(false)}
-            >
-              ✕
-            </button>
+          
           </div>
         </div>
       )}
