@@ -1,0 +1,31 @@
+
+
+   body {
+    margin: 0;
+    padding: 0;
+   
+    color: white;
+    font-family: Arial, sans-serif;
+
+    background: linear-gradient(135deg, #0d1224, #1b0836 50%, #290847);
+    padding: 10px;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    
+    
+    /* display: flex; */
+    /* align-items: center;  
+    justify-content: center;  */
+    /* overflow: hidden; */
+    /* position: relative; */
+  }
+
+  .wrapper{
+    /* padding: 10px;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem; */
+   
+    /* background-color: #21083D; */
+    
+  }
+ 

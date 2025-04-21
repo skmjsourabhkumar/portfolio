@@ -1,0 +1,15 @@
+#projects{
+    /* color: aqua; */
+    /* margin-top: 11.5rem; */
+    /* background: linear-gradient(135deg, #0d1224, #1b0836 50%, #290847); */
+}
+.project-cards{
+    margin: 1.8rem;
+    padding: 3.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}

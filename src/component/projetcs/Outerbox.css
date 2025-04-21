@@ -1,0 +1,11 @@
+.outerbox{
+    
+    width: 400px;
+    height: 400px;
+}
+.box-head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* justify-content: center; */
+}

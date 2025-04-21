@@ -1,0 +1,12 @@
+.about-sec{
+    padding: 2.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap:10.5rem;
+}
+.about-content{
+    max-width: 600px;
+    padding: 0.5rem;
+}

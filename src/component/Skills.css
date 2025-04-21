@@ -1,0 +1,9 @@
+.skills-container{
+    display: flex;
+    width: 1200px;
+    justify-content: center;
+    align-items: center;
+    /* height: 1200px; */
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
